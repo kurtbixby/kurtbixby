@@ -14,7 +14,7 @@ My main programming environment is C# + .NET with JavaScript being a close secon
 ## Projects
 
 - **[Plunger](https://github.com/kurtbixby/plunger)**
-A full-stack web app I wrote this to replace the spreadsheet I use to track and manage my video game collection. It currently supports adding games that appear in the [Internet Games Database](https://www.igdb.com/) to a collection. It also collates and tracks duplicate versions of games that might exist in a collection. It's built using React on the frontend and C# backend.
+A full-stack web app I wrote this to replace the spreadsheet I use to track and manage my video game collection. It currently supports adding games that appear in the [Internet Games Database](https://www.igdb.com/) to a collection. It also collates and tracks duplicate versions of games that might exist in a collection. It's hosted on Azure and built with React on the frontend and C# on the backend.
 
 ## Demos
 
