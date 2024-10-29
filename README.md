@@ -13,13 +13,13 @@ My main programming environment is C# + .NET with JavaScript being a close secon
 
 ## Projects
 
-- **[Plunger](https://github.com/kurtbixby/plunger)**
+- **[Plunger](https://github.com/kurtbixby/plunger)**  
 A full-stack web app I wrote this to replace the spreadsheet I use to track and manage my video game collection. It currently supports adding games that appear in the [Internet Games Database](https://www.igdb.com/) to a collection. It also collates and tracks duplicate versions of games that might exist in a collection. It's hosted on Azure and built with React on the frontend and C# on the backend.  
 *This is currently under construction as I finish the UI and rewrite older parts using Chakra UI.*
 
 ## Demos
 
-- **[Literate Waffle](https://github.com/kurtbixby/literate-waffle-mysql-frontend)**
+- **[Literate Waffle](https://github.com/kurtbixby/literate-waffle-mysql-frontend)**  
 An extensible and reusable CLI for managing entities in a SQL database. It uses an MVC-like architecture to stay simple. Menu options are associated with functions that handle logic surrounding database queries. The dbInterface class defines and exports functions that call stored procedures located in the database.
 
 ## Contact Me
