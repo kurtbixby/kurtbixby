@@ -1,4 +1,4 @@
-# Greetings
+# 👋 Welcome!
 
 Hi, my name's Kurt. I'm a software developer currently focused on creating full-stack web applications with an emphasis on backend systems.
 
